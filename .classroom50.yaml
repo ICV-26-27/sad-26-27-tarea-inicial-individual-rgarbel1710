@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "sad-26-27"
+assignment: "tarea-inicial-individual"
+owner:
+  username: "rgarbel1710"
+  id: 151036104
+  accepted_at: "2026-10-02T06:18:39Z"
